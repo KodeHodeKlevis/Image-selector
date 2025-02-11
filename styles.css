@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#imageContainer {
+    margin-top: 20px;
+}
+
+img {
+    border: 2px solid #881010;
+    margin-top: 20px;
+}
+
+h1{
+    color: blue;
+}
